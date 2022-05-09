@@ -1,0 +1,48 @@
+h2{
+    text-align: center;
+    width: 300px;
+    max-width: 100%;
+    margin: auto;
+    margin-top: 10px; 
+    
+}
+
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+#container1{
+    text-align: center;
+    width: 300px;
+    max-width: 100%;
+    margin: auto;
+    margin-top: 55px; 
+}
+
+#container2{
+    text-align: center;
+    width: 400px;
+    max-width: 100%;
+    margin: auto;
+    margin-top: 55px; 
+}
+
+#exterior{
+    text-align: center;
+    margin: auto;
+    margin-top: 70px;
+    max-width: 100%;
+    height: 300px;
+    max-height: 100%;
+}
+
+#interior{
+    background-color: rgba(12, 88, 85, 0.87);
+    border-radius: 10px;
+}
+
+
+
+
+
