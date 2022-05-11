@@ -44,18 +44,6 @@ body{
     max-height: 100%;
 }
 
-#Staff{
-    text-align: left;
-}
-
-#Somos{
-    text-align: center;
-}
-
-#Contactos{
-    text-align: right;
-}
-
 #mensaje{
     text-align: center;
     margin-top: 50px;
